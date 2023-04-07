@@ -69,6 +69,7 @@
   line-height: 100%;
   padding: 9px;
   transition: transform 0.1s ease, background-color 0.3s ease-in-out;
+  color: #000000;
 }
 
 .product__add:hover {
