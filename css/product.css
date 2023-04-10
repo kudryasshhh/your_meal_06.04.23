@@ -33,6 +33,7 @@
 
 .product__detail {
   outline: none;
+  color: black;
 }
 .product__detail:focus-visible,
 .product__detail:hover {
